@@ -1,1 +1,3 @@
-# COSMIC-CRASH
+{
+      "tokens": ["8733172854:AAHt8QdWcYTh3LnmDwgDO6WeFa1ZNbsQzwU"]
+}
